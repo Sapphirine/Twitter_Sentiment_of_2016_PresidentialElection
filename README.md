@@ -1,17 +1,16 @@
-#Big data analytics_CU ELEN6893
-#Final Project
+#Big data analytics_CU ELEN6893 Final Project
 #Analyzing Twitter Sentiment of 2016 Post-Presidential Election
 
-*ProjectID: 
+* ProjectID: 
 			201612-32
-*Team Member:
+* Team Member:
 			Lingqing XU        (Lx2201)
 			Ciyuan ZHANG   (cz2350)
 			Shihao ZHANG   (sz2531)
 
-*Data range: 
+* Data range: 
 			11/14/2016 to 12/14/2016
-*Keywords: 
+* Keywords: 
 		@hillaryclinton 
 		@RealDonaldTrump
 		#hillaryclinton 
@@ -21,16 +20,16 @@
 		Donald 
 		Trump
 
-*Raw tweets (1.17GB) + Processed Data + Final result (html graph) :
+* Raw tweets (1.17GB) + Processed Data + Final result (html graph) :
 Google Drive Shared Link:
 https://drive.google.com/drive/folders/0B1ScL3U5Lv3oOEVtSWRQcHBIN28?usp=sharing
                 
-#RUNNING:
+# RUNNING:
 
-*ENVIRONMENT: 
+* ENVIRONMENT: 
 		python 3.5.2, spark 2.0.1
 
-*AUTHENTICATION:
+* AUTHENTICATION:
 https://apps.twitter.com/app/13197060/show
 https://twitter.com/?lang=en
 Owner: XuLingqing, Ciyuan Zhang, Shihao Zhang
