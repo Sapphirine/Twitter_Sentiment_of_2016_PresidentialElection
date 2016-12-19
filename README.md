@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/0B1ScL3U5Lv3oOEVtSWRQcHBIN28?usp=sharing
 
 * AUTHENTICATION:
 	
-	*Owner: XuLingqing, Ciyuan Zhang, Shihao Zhang
+	*Owner: LingqingXu, Ciyuan Zhang, Shihao Zhang
 
 	*Owner ID: 774060576100192256
 	
