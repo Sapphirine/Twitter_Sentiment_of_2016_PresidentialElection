@@ -38,10 +38,10 @@ https://drive.google.com/drive/folders/0B1ScL3U5Lv3oOEVtSWRQcHBIN28?usp=sharing
 
 	*Owner ID: 774060576100192256
 
-* API_KEY(Consumer Key ) = 'wO3e5cZTaP9MuSIDc58RBz6YB'
-* API_SECRET(Consumer Secret) = 'rUF046vyBebhlz344dJnB20xHN29RlsISUxRkX4AXtVgkpwOie'
-* ACCESS_TOKEN = '774060576100192256-vVFgqXwzqTS5nWMT5N3Dyzo34t0asMg'
-* ACCESS_TOKEN_SECRET = '9Xf1DyzyRiLAzcEHOi1rDcijsG3EQ57UnVfLqphKPkIKb'
+	* API_KEY(Consumer Key ) = 'wO3e5cZTaP9MuSIDc58RBz6YB'
+	* API_SECRET(Consumer Secret) = 'rUF046vyBebhlz344dJnB20xHN29RlsISUxRkX4AXtVgkpwOie'
+	* ACCESS_TOKEN = '774060576100192256-vVFgqXwzqTS5nWMT5N3Dyzo34t0asMg'
+	* ACCESS_TOKEN_SECRET = '9Xf1DyzyRiLAzcEHOi1rDcijsG3EQ57UnVfLqphKPkIKb'
 
 * twitter201612_32.py
 	Used to pull and write data to data.txt file. In the txt documents, each line is tweets of a specific user that contains the keyword. We stream tweets in real time using [Twitter's API](https://dev.twitter.com/streaming/public) and tweepy(https://github.com/tweepy/tweepy). These tweets are filtered on terms related to the two candidates, and formatted with the tweets containing candidate name. 
