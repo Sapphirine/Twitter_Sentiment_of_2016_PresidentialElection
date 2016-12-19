@@ -30,14 +30,13 @@ https://drive.google.com/drive/folders/0B1ScL3U5Lv3oOEVtSWRQcHBIN28?usp=sharing
 		python 3.5.2, spark 2.0.1
 
 * AUTHENTICATION:
-
-	* https://apps.twitter.com/app/13197060/show
-	* https://twitter.com/?lang=en
-
+	
 	*Owner: XuLingqing, Ciyuan Zhang, Shihao Zhang
 
 	*Owner ID: 774060576100192256
-
+	
+	* https://apps.twitter.com/app/13197060/show
+	* https://twitter.com/?lang=en
 	* API_KEY(Consumer Key ) = 'wO3e5cZTaP9MuSIDc58RBz6YB'
 	* API_SECRET(Consumer Secret) = 'rUF046vyBebhlz344dJnB20xHN29RlsISUxRkX4AXtVgkpwOie'
 	* ACCESS_TOKEN = '774060576100192256-vVFgqXwzqTS5nWMT5N3Dyzo34t0asMg'
